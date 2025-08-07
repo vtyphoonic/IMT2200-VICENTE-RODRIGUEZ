@@ -1,2 +1,2 @@
 # IMT2200-VICENTE-RODRIGUEZ
-Actividad 1
+Vicente Cristián Rodríguez Muñoz
